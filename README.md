@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/Framework-000000?style=for-the-badge&logo=framework&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Connect%20With%20Me!-000000?style=for-the-badge&logo=framework&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Connect%20With%20Me!-000000?style=for-the-badge&logo=framework&logoColor=white"/><br>
 ![https://instagram.com/ig.anscmlfdhy](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://facebook.com/anscmlfdhy27](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 
@@ -32,5 +31,7 @@
 
 <marquee>
 
+  
 ![https://instagram.com/ig.anscmlfdhy](https://img.shields.io/badge/Copyright©2025%20|NazzGroup-000000?)
+
 </marquee>
