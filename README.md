@@ -1,6 +1,7 @@
+<div align="center">
 <img src="./banner.png">
 
-<div align="center">
+
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 
@@ -14,7 +15,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Connect%20With%20Me!-white?style=for-the-badge&logo=framework&logoColor=black"/>
-<p align="left"> <a href="https://github.com/NassOfficial"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/Anscmlfdhy"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/ig.anscmlfdhy"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://github.com/NassOfficial"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/Anscmlfdhy"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/ig.anscmlfdhy"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
 
 <img src="https://img.shields.io/badge/-HackerGank-purple?style=for-the-badge&logo=&logoColor=white">
@@ -23,10 +24,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nassofficial&show_icons=true&theme=gruvbox"/>
 
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-red?&logo=visual%20studio%20code&logoColor=red" />
-    <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejoi" />
-</p>
+  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-red?&logo=visual%20studio%20code&logoColor=red"/>
+  <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejoi"/>
   
 ![https://instagram.com/ig.anscmlfdhy](https://img.shields.io/badge/Copyright©2025%20|NazzGroup-000000?)
 </div>
