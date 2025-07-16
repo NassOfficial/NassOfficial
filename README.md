@@ -2,6 +2,7 @@
 <img src="/banner.png"/>
 <br>  
 <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<br>
 <!--Badge Skill-->
 <img height="30" src="https://img.shields.io/badge/My%20Skills-green?style=for-the-badge&logo=framework&logoColor=black"/> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
