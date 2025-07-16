@@ -35,17 +35,17 @@
 <br>
 <br>
 <!--Terminal-->
-<img height="30" src="https://img.shields.io/badge/My%20Terminal-green?style=for-the-badge&logo=framework&logoColor=black"/>
+<img height="30" src="https://img.shields.io/badge/My%20Terminal-green?style=for-the-badge&logo=framework&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
 <br>
 <br>
 <!--VM-->
-<img height="30" src="https://img.shields.io/badge/Virtualization-green?style=for-the-badge&logo=framework&logoColor=black"/>
+<img height="30" src="https://img.shields.io/badge/Virtualization-green?style=for-the-badge&logo=framework&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/> <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <br>
 <br>
 <!--CONNECT-->
-<img height="30" src="https://img.shields.io/badge/Connect%20With%20Me!-green?style=for-the-badge&logo=framework&logoColor=black"/>
+<img height="30" src="https://img.shields.io/badge/Connect%20With%20Me!-green?style=for-the-badge&logo=framework&logoColor=black"/><br>
 <p align="center"> <a href="https://facebook.com/anscmlfdhy27"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://instagram.com/ig.anscmlfdhy"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mail.com/anasofficialsweb1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="discord.gg/rrq_ansmclfdhy"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </p>
 <br>
