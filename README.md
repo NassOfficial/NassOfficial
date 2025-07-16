@@ -1,6 +1,5 @@
 <div align="center">
 <if img src="./banner.png"><br>
-<img src="./img/banner.png">
 <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 <!--Badge Skill-->
 <img height="30" src="https://img.shields.io/badge/My%20Skills-green?style=for-the-badge&logo=framework&logoColor=black"/><br>
