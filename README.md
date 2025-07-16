@@ -10,12 +10,12 @@
 <br>
 <br>
   <!--DataBase-->
-<img height="30" src="https://img.shields.io/badge/Data%20Base-green?style=for-the-badge&logo=framework&logoColor=black"/>
+<img height="30" src="https://img.shields.io/badge/Data%20Base-green?style=for-the-badge&logo=framework&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br>
 <br>
   <!--FRAMWORK-->
-<img height="30" src="https://img.shields.io/badge/Framework-green?style=for-the-badge&logo=framework&logoColor=black"/>
+<img height="30" src="https://img.shields.io/badge/Framework-green?style=for-the-badge&logo=framework&logoColor=black"/><br>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
 <br>
 <br>
