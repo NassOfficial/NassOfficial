@@ -82,5 +82,5 @@
 <br>
 <br>
   
-![https://instagram.com/ig.anscmlfdhy](https://img.shields.io/badge/Copyright©2025%20|NazzGroup-000000?)
+<a href="https://instagram.com/ig.anscmlfdhy"> <img src="https://img.shields.io/badge/Copyright©2025%20|NazzGroup-000000?">
 </div>
